@@ -1,0 +1,10 @@
+* {
+    line-height: 1.5;
+    color: #464646;
+    background: #F5F2F0;
+}
+
+.w3-container img {
+    width: 25px;
+    height: 25px;
+}
